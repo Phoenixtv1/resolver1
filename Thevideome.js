@@ -1,6 +1,6 @@
 /* TheVideoDecoder - A script which will be executed by Duktape to extract TheVideo.me links
- * 
- * Copyright (C) 2017 NitroXenon
+ * modify by phoenix tv  
+ * Copyright (C) 2018 NitroXenon
  * 
  * This software is released under the GPLv3 License.
 
